@@ -1,4 +1,4 @@
-# ocr scan from png file to txt file on/of cli
+# ocr scan from png file to txt on/off/via cli
 
 > s. FROM_HERE.md first please
 > [convert jpeg to png see here my other github project](https://github.com/MathiasStadler/convert_gif_to_png.git)
